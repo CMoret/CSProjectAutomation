@@ -1,3 +1,4 @@
+#This program utilizes selenium webdriver for Google Chrome to navigate youtube web browser
 import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
