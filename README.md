@@ -1,5 +1,10 @@
 #Youtube Bot
 
+Language: Python
+
+IDE: Visual Studio
+
+Programs: Selenium WebDrive, datetime
 
 
 This program utilizes selenium to navigate through Youtube
