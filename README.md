@@ -3,13 +3,13 @@
 
 
 This program utilizes selenium to navigate through Youtube
-'YouTube Bot,' utilizes the Selenium web driver for Google Chrome. 
+'YouTube Bot', utilizes the Selenium web driver for Google Chrome. 
 
 1.)The program begins by importing the necessary libraries to enable the Selenium WebDriver library (time, webdriver, by, and wait). 
 
 2.)It initializes a Chrome web browser instance and maximizes the window for a better view. 
 
-3.)The program then navigates to the YouTube website, inputs 'professor messer,' and waits for the required elements to become clickable before opening each necessary link.
+3.)The program then navigates to the YouTube website, inputs 'professor messer', and waits for the required elements to become clickable before opening each necessary link.
 
 4.)Once the program is complete, it quits the browser.
 
