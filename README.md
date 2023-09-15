@@ -1,6 +1,7 @@
 #CSProjectAutomation
 
-Read Me in progress...
+READ ME UNDER CONSTRUCTION
+
 
 Language: Python
 
