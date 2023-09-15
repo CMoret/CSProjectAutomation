@@ -1,5 +1,7 @@
 #CSProjectAutomation
 
+Read Me in progress...
+
 Language: Python
 
 IDE: Visual Studio
